@@ -1,11 +1,14 @@
 # Code names
 
+> ![NOTE]
+> DISCLAIMER: I **DID NOT** develop this application. It has been copied by [Aris Papadopoulos](https://github.com/aris-papadopoulos/codenames)
+
 This project was created as a contribution for the people in lockdown due to the CoViD-19 pandemic
 outburst, helping board game fans to (virtually) group up and play games.
 
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[View Project Page](https://aris-papadopoulos.github.io/codenames/)
+[View Project Page](https://leonmarios.github.io/codename/)
 
 ## How to play online
 
