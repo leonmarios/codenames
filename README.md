@@ -1,7 +1,7 @@
 # Code names
 
-> ![NOTE]
-> DISCLAIMER: I **DID NOT** develop this application. It has been copied by [Aris Papadopoulos](https://github.com/aris-papadopoulos/codenames)
+## DISCLAIMER
+I **DID NOT** develop this application. It has been copied by [Aris Papadopoulos](https://github.com/aris-papadopoulos/codenames)
 
 This project was created as a contribution for the people in lockdown due to the CoViD-19 pandemic
 outburst, helping board game fans to (virtually) group up and play games.
