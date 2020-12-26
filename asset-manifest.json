@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/codenames/static/css/main.8ddff368.chunk.css",
+    "main.js": "/codenames/static/js/main.db4544c4.chunk.js",
+    "main.js.map": "/codenames/static/js/main.db4544c4.chunk.js.map",
+    "runtime-main.js": "/codenames/static/js/runtime-main.cb01a233.js",
+    "runtime-main.js.map": "/codenames/static/js/runtime-main.cb01a233.js.map",
+    "static/js/2.70672278.chunk.js": "/codenames/static/js/2.70672278.chunk.js",
+    "static/js/2.70672278.chunk.js.map": "/codenames/static/js/2.70672278.chunk.js.map",
+    "index.html": "/codenames/index.html",
+    "precache-manifest.00bcee43d06769ec8e4b2cd3b9b143f8.js": "/codenames/precache-manifest.00bcee43d06769ec8e4b2cd3b9b143f8.js",
+    "service-worker.js": "/codenames/service-worker.js",
+    "static/css/main.8ddff368.chunk.css.map": "/codenames/static/css/main.8ddff368.chunk.css.map",
+    "static/js/2.70672278.chunk.js.LICENSE.txt": "/codenames/static/js/2.70672278.chunk.js.LICENSE.txt",
+    "static/media/greece.svg": "/codenames/static/media/greece.90595896.svg",
+    "static/media/main.png": "/codenames/static/media/main.9d579f75.png",
+    "static/media/uk.svg": "/codenames/static/media/uk.e5564902.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb01a233.js",
+    "static/js/2.70672278.chunk.js",
+    "static/css/main.8ddff368.chunk.css",
+    "static/js/main.db4544c4.chunk.js"
+  ]
+}
