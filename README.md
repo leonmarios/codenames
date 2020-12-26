@@ -3,6 +3,10 @@
 ## DISCLAIMER
 I **DID NOT** develop this application. It has been copied by [Aris Papadopoulos](https://github.com/aris-papadopoulos/codenames)
 
+
+## Below you will find his notes
+
+
 This project was created as a contribution for the people in lockdown due to the CoViD-19 pandemic
 outburst, helping board game fans to (virtually) group up and play games.
 
