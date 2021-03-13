@@ -1,7 +1,7 @@
 # Code names
 
 ## DISCLAIMER
-I **DID NOT** develop this application. It has been copied by [Aris Papadopoulos](https://github.com/aris-papadopoulos/codenames)
+I **DID NOT** develop this application. It has been developed by [Aris Papadopoulos](https://github.com/aris-papadopoulos/codenames)
 
 
 ## Below you will find his notes
